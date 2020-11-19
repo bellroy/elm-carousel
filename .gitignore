@@ -3,4 +3,7 @@ elm-stuff
 # elm-repl generated files
 repl-temp-*
 .DS_Store
-
+example/dist
+example/.cache
+example/node_modules
+node_modules
